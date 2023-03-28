@@ -1,0 +1,6 @@
+
+#!/bin/bash
+
+/usr/bin/vncconfig -nowin &
+exec /usr/bin/startxfce4
+
